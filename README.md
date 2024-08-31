@@ -1,4 +1,4 @@
-# Troddit-fork
+# troddit-fork
 
 ### _An alternative front end web client for Reddit_
 
