@@ -2,8 +2,6 @@
 
 ### _An alternative front end web client for Reddit_
 
-Live at [troddit.com](https://www.troddit.com)
-
 ## Screenshots
 
 ### Flexible column viewing.
