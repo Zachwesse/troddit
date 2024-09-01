@@ -1,4 +1,4 @@
-# troddit-fork
+# troddit-vercel
 
 ### _An alternative front end web client for Reddit_
 
